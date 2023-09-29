@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>RAISE Group at NUAA</title>
+    <link>https://raise-group.github.io/</link>
+    <description>Recent content on RAISE Group at NUAA</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright &amp;copy; 2020 - 2023 RAISE Group @NUAA</copyright>
+    <lastBuildDate>Tue, 01 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://raise-group.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Member</title>
+      <link>https://raise-group.github.io/member/</link>
+      <pubDate>Thu, 28 Sep 2023 15:41:43 +0800</pubDate>
+      
+      <guid>https://raise-group.github.io/member/</guid>
+      <description>Team Faculty Assistant Professor: Guanping Xiao
+Master Students 2021: Jianfei Zhu
+2022: Shuai Zhang
+2022: Jun Wang
+2023: Huashan Lei
+2023: Yingzhou Tao</description>
+    </item>
+    
+    <item>
+      <title>Why Do Deep Learning Projects Differ in Compatible Framework Versions? An Exploratory Study</title>
+      <link>https://raise-group.github.io/publication/issre23/</link>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://raise-group.github.io/publication/issre23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Compatibility Issues in Deep Learning Systems: Problems and Opportunities</title>
+      <link>https://raise-group.github.io/publication/fse23/</link>
+      <pubDate>Fri, 28 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://raise-group.github.io/publication/fse23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enhancing Traceability Link Recovery with Unlabeled Data</title>
+      <link>https://raise-group.github.io/publication/issre22/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://raise-group.github.io/publication/issre22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nondeterministic Impact of CPU Multithreading on Training Deep Learning Systems</title>
+      <link>https://raise-group.github.io/publication/issre21/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://raise-group.github.io/publication/issre21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DeepSIM: Deep Semantic Information-Based Automatic Mandelbug Classification</title>
+      <link>https://raise-group.github.io/publication/trel21/</link>
+      <pubDate>Tue, 28 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://raise-group.github.io/publication/trel21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Exploratory Study of Autopilot Software Bugs in Unmanned Aerial Vehicles</title>
+      <link>https://raise-group.github.io/publication/fse21/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://raise-group.github.io/publication/fse21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Empirical Study of Code Deobfuscations on Detecting Obfuscated Android Piggybacked Apps</title>
+      <link>https://raise-group.github.io/publication/apsec20/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://raise-group.github.io/publication/apsec20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fault Triggers in the TensorFlow Framework: An Experience Report</title>
+      <link>https://raise-group.github.io/publication/issre20b/</link>
+      <pubDate>Wed, 11 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://raise-group.github.io/publication/issre20b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HINDBR: Heterogeneous Information Network Based Duplicate Bug Report Prediction</title>
+      <link>https://raise-group.github.io/publication/issre20a/</link>
+      <pubDate>Wed, 11 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://raise-group.github.io/publication/issre20a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cross-project Bug Type Prediction based on Transfer Learning</title>
+      <link>https://raise-group.github.io/publication/sqj19/</link>
+      <pubDate>Mon, 16 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://raise-group.github.io/publication/sqj19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Empirical Study of Fault Triggers in the Linux Operating System: An Evolutionary Perspective</title>
+      <link>https://raise-group.github.io/publication/trel19b/</link>
+      <pubDate>Wed, 05 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://raise-group.github.io/publication/trel19b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Empirical Study of Regression Bug Chains in Linux</title>
+      <link>https://raise-group.github.io/publication/trel19a/</link>
+      <pubDate>Mon, 25 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://raise-group.github.io/publication/trel19a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evolution Analysis of a UAV Real-time Operating System from a Network Perspective</title>
+      <link>https://raise-group.github.io/publication/cja18/</link>
+      <pubDate>Thu, 12 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://raise-group.github.io/publication/cja18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experience Report: Fault Triggers in Linux Operating System: From Evolution Perspective</title>
+      <link>https://raise-group.github.io/publication/issre17/</link>
+      <pubDate>Thu, 16 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://raise-group.github.io/publication/issre17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Automatic Classification of Fault Trigger Based Bug Report</title>
+      <link>https://raise-group.github.io/publication/issrew17/</link>
+      <pubDate>Thu, 16 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://raise-group.github.io/publication/issrew17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analysis of the Runtime Linux Operating System as a Complex Weighted Network</title>
+      <link>https://raise-group.github.io/publication/sate16/</link>
+      <pubDate>Mon, 12 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://raise-group.github.io/publication/sate16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evolution of Linux Operating System Network</title>
+      <link>https://raise-group.github.io/publication/physicaa16/</link>
+      <pubDate>Tue, 27 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://raise-group.github.io/publication/physicaa16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Network of Networks in Linux Operating System</title>
+      <link>https://raise-group.github.io/publication/physicaa15/</link>
+      <pubDate>Tue, 29 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://raise-group.github.io/publication/physicaa15/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
