@@ -7,7 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright &amp;copy; 2020 - 2023 RAISE@NUAA</copyright>
-    <lastBuildDate>Tue, 01 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://raise-group.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 15 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://raise-group.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>An Exploratory Investigation of Log Anomalies in Unmanned Aerial Vehicles</title>
+      <link>https://raise-group.github.io/publication/icse24/</link>
+      <pubDate>Fri, 15 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://raise-group.github.io/publication/icse24/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Member</title>
       <link>https://raise-group.github.io/member/</link>
@@ -25,7 +34,7 @@ Master Students 2021: Jianfei Zhu
     <item>
       <title>Why Do Deep Learning Projects Differ in Compatible Framework Versions? An Exploratory Study</title>
       <link>https://raise-group.github.io/publication/issre23/</link>
-      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 18 Aug 2023 00:00:00 +0000</pubDate>
       
       <guid>https://raise-group.github.io/publication/issre23/</guid>
       <description></description>
