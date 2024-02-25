@@ -35,9 +35,9 @@
 
 
     <link rel="shortcut icon" href="https://raise-group.github.io/img/favicon.ico" type="image/x-icon">
-    <link rel="canonical" href="https://raise-group.github.io/publication/sate16/">
+    <link rel="canonical" href="https://raise-group.github.io/publication/jss24/">
 
-    <title>Analysis of the Runtime Linux Operating System as a Complex Weighted Network | RAISE Group at NUAA</title>
+    <title>Deep Semi-Supervised Learning for Recovering Traceability Links between Issues and Commits | RAISE Group at NUAA</title>
 
 </head>
 
@@ -98,7 +98,7 @@
         <div class="row">
             <div class="col-sm-12">
                 <div class="pub-title">
-                    <h1 itemprop="name">Analysis of the Runtime Linux Operating System as a Complex Weighted Network</h1>
+                    <h1 itemprop="name">Deep Semi-Supervised Learning for Recovering Traceability Links between Issues and Commits</h1>
                 </div>
             </div>
         </div>
@@ -111,11 +111,17 @@
         
             
                 
-<span class="author-name">Haoqin Wang</span>,
+<span class="author-name">Jianfei Zhu</span>,
+            
+                
+<span class="author-name">Guanping Xiao</span>,
+            
+                
+<span class="author-name">Zheng Zheng</span>,
             
             
                  
-<span class="author-name">Guanping Xiao</span>
+<span class="author-name">Yulei Sui</span>
             
         
 </div>
@@ -134,7 +140,7 @@
         
         <div class="row">
             <div class="col-sm-12">
-                <p class="pub-abstract" itemprop="text">Linux operating system (LOS) is a sophisticated man-made system and one of the most ubiquitous operating systems. However, there is little research on the structure and functionality evolution of LOS from the prospective of networks. In this paper, we investigate the evolution of the LOS network. 62 major releases of LOS ranging from versions 1.0 to 4.1 are modeled as directed networks in which functions are denoted by nodes and function calls are denoted by edges. It is found that the size of the LOS network grows almost linearly, while clustering coefficient monotonically decays. The degree distributions are almost the same: the out-degree follows an exponential distribution while both in-degree and undirected degree follow power-law distributions. We further explore the functionality evolution of the LOS network. It is observed that the evolution of functional modules is shown as a sequence of seven events (changes) succeeding each other, including continuing, growth, contraction, birth, splitting, death and merging events. By means of a statistical analysis of these events in the top 4 largest components (i.e., arch, drivers, fs and net), it is shown that continuing, growth and contraction events occupy more than 95% events. Our work exemplifies a better understanding and describing of the dynamics of LOS evolution.</p>
+                <p class="pub-abstract" itemprop="text">Traceability links between issues and commits record valuable information about the evolutionary history of software projects. Unfortunately, these links are often missing. While deep learning stands as the current state-of-the-art (SOTA) in automated traceability link recovery (TLR), its effectiveness is faced with the practical problem of limited labeled data during training. To overcome this challenge, in this paper, we propose DSSLink, a novel method based on deep semi-supervised learning, enhancing deep-learning-based link recovery tasks. DSSLink first learns knowledge from labeled data through pre-trained model and then leverages deep semi-supervised learning to infer pseudo-labels on unlabeled data. The extended dataset of pseudo-labeled and labeled data re-trains the deep learning model in an iterative process. Our extensive evaluations are conducted on two SOTA traceability methods (T-BERT and BTLink) across four GitHub projects and 11 Apache projects. Specifically, the maximum F1-score improvements for GitHub and Apache projects reached 22.9% and 43.5%, respectively. Evaluation results show that DSSLink is effective in enhancing TLR performance and outperforms TraceFUN, a recent approach that utilizes unlabeled data for TLR. The source code of DSSLink is available at <a href="https://github.com/DSSLink">https://github.com/DSSLink</a>.</p>
             </div>
         </div>
 
@@ -142,7 +148,7 @@
             <div class="col-sm-12">
                 <div class="row">
                     <div class="col-xs-12 col-sm-3 pub-row-heading">Publication</div>
-                    <div class="col-xs-12 col-sm-9">2016 International Conference on Software Analysis, Testing and Evolution</div>
+                    <div class="col-xs-12 col-sm-9">Journal of Systems and Software</div>
                 </div>
             </div>
         </div>
@@ -157,7 +163,7 @@
                     <div class="col-xs-12 col-sm-3 pub-row-heading">Date</div>
                     <div class="col-xs-12 col-sm-9" itemprop="datePublished">
                         
-                            December, 2016
+                            February, 2024
                         
                     </div>
                 </div>
@@ -177,11 +183,11 @@
 
 
 
-<a class="btn btn-primary btn-outline" href="https://guanpingxiao.github.io/publications/SATE16.pdf">PDF</a>
 
 
 
 
+<a class="btn btn-primary btn-outline" href="https://github.com/DSSLink">Dataset</a>
 
 
 
