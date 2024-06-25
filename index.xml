@@ -7,7 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright &amp;copy; 2020 - 2024 RAISE@NUAA</copyright>
-    <lastBuildDate>Sat, 24 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://raise-group.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 20 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://raise-group.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>An Exploratory Evaluation of Large Language Models Using Empirical Software Engineering Tasks</title>
+      <link>https://raise-group.github.io/publication/internetware24/</link>
+      <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://raise-group.github.io/publication/internetware24/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Deep Semi-Supervised Learning for Recovering Traceability Links between Issues and Commits</title>
       <link>https://raise-group.github.io/publication/jss24/</link>
@@ -33,11 +42,16 @@
       
       <guid>https://raise-group.github.io/member/</guid>
       <description>Team Faculty Assistant Professor: Guanping Xiao
-Master Students 2021: Jianfei Zhu
-2022: Shuai Zhang
+Master Students 2022: Shuai Zhang
 2022: Jun Wang
 2023: Huashan Lei
-2023: Yingzhou Tao</description>
+2023: Yingzhou Tao
+2024: Gangqiang He
+Alumni 2024: Jianfei Zhu (Master Student of NUAA)
+2024: Wenjun Liang (2020 Student of NUAA)
+2023: Huashan Lei (2019 Student of NUAA)
+2021: Jun Liu (2017 Student of NUAA)
+2021: Fushen Zhang (2016 Student of NUAA)</description>
     </item>
     
     <item>
